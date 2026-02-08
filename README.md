@@ -44,7 +44,17 @@ git clone https://github.com/gman3g/EasyGuestKey.git
 ```
 
 # Install dependencies
+
+Requirements during development testing
+```
+pip install -r requirements-dev.txt
+```
+
+
+Requirements in GCP
+```
 pip install -r requirements.txt
+```
 ## ⚙️ Configuration
 Update your environment variables or config.py:
 
