@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm / JetBrains IDE
+.idea/
+*.iml
+
+# Environments & Secret files
+.env
+.venv
+env/
+venv/
+ENV/
+*.bak
+*.swp
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.noseresults
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.coverage
